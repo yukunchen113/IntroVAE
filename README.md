@@ -32,6 +32,6 @@ I found that using different parameters than the paper works better for me. Tuni
 
 higher beta is better for this, accordingly, _m_ should be tuned to be higher. This is because higher beta causes higher regularization loss, and the bound _m_ should be enough to accomodate the higher ends of the regularization loss. However, this doesn't provide a good latent traversal, so perhaps increasing the beta value would help.
 
-![beta = 0.75, alpha = 0.25, m =1000](tesults/normal1.jpg)
+![beta = 0.75, alpha = 0.25, m =1000](results/normal1.jpg)
 
 
